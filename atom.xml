@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Jason Laster]]></title>
+  <link href="http://jasonLaster.github.com/jasonLaster/atom.xml" rel="self"/>
+  <link href="http://jasonLaster.github.com/jasonLaster/"/>
+  <updated>2012-06-23T16:35:20-04:00</updated>
+  <id>http://jasonLaster.github.com/jasonLaster/</id>
+  <author>
+    <name><![CDATA[Jason Laster]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test Post 2]]></title>
+    <link href="http://jasonLaster.github.com/jasonLaster/blog/2012/06/19/test-post-2/"/>
+    <updated>2012-06-19T16:39:00-04:00</updated>
+    <id>http://jasonLaster.github.com/jasonLaster/blog/2012/06/19/test-post-2</id>
+    <content type="html"><![CDATA[<h1>This is a test</h1>
+
+<p>what comes next
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<h1>This is a test</h1>
+
+<p>what comes next
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'> <span class="n">foo</span> <span class="o">=</span>
+</span><span class='line'>  <span class="o">&lt;&lt;-</span><span class="no">HTML</span>
+</span><span class='line'><span class="sh">&lt;div&gt;foo&lt;/div&gt;</span>
+</span><span class='line'><span class="no">  HTML</span>
+</span><span class='line'>
+</span><span class='line'><span class="nb">puts</span> <span class="n">fooend</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<ul class="nav nav-tabs">
+  <li class="active">
+    <a href="#">Home</a>
+  </li>
+  <li><a href="#">&#8230;</a></li>
+  <li><a href="#">&#8230;</a></li>
+</ul>
+
+
+<div><script src='https://gist.github.com/2938425.js?file=Factorial.py'></script>
+<noscript><pre><code># dumb recursive factorial
+def fact(n):
+    if (n &lt;= 1):
+        return 1
+    else:
+        return n * fact(n - 1)
+
+print fact(6)
+</code></pre></noscript></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test Post]]></title>
+    <link href="http://jasonLaster.github.com/jasonLaster/blog/2012/06/19/test-post/"/>
+    <updated>2012-06-19T16:37:00-04:00</updated>
+    <id>http://jasonLaster.github.com/jasonLaster/blog/2012/06/19/test-post</id>
+    <content type="html"><![CDATA[<h1>This is a test</h1>
+
+<p>what comes next
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<h1>This is a test</h1>
+
+<p>what comes next
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+]]></content>
+  </entry>
+  
+</feed>
